@@ -1,0 +1,14 @@
+Local repository lives inside a special folder name .git
+Git Bash is same as Unix Command line 
+1. Create a directory
+   cd git/
+2.Clone Repository in the git folder
+  i) Configure git account for our github repository
+     git config --global user.name "Your Name"
+  ii) To give email id
+     git config --global user.email "your email@domain.com"
+ iii) To clone the repository
+     git clone (url)
+     Note-Go to github account there will be link for our repository in HTTPS box just copy it 
+ 
+Now we can use our repository locally
