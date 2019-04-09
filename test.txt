@@ -12,3 +12,14 @@ Git Bash is same as Unix Command line
      Note-Go to github account there will be link for our repository in HTTPS box just copy it 
  
 Now we can use our repository locally
+
+3. Now to upload the file to github we have to add the file
+   git add (file Name)
+4.To check the status of the file
+   git status
+
+Before transferring the filr to github
+5. We have to commit the file and upload it
+   git commit -m "Committed message" fileName
+6.To transfer the file on github Account
+  git push -u origin master 
